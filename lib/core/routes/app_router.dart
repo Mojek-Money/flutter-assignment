@@ -1,5 +1,5 @@
+import 'package:finvu_test/features/home/home_screen.dart';
 import 'package:flutter/material.dart';
-import '../../features/home/presentation/screens/home_screen.dart';
 
 class AppRouter {
   Route onGenerateRoute(RouteSettings settings) {
@@ -14,4 +14,4 @@ class AppRouter {
         );
     }
   }
-} 
+}
