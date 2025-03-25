@@ -1,4 +1,4 @@
-# finvu_test
+# mojek_assignment
 
 This is a project aimed at testing your flutter expertise.
 Starting from your ability to read code, understanding architecture, making easily readable contribution and overall experience in flutter
