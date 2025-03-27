@@ -1,16 +1,10 @@
 # mojek_assignment
 
-This is a project aimed at testing your flutter expertise.
-Starting from your ability to read code, understanding architecture, making easily readable contribution and overall experience in flutter
+A new Flutter project.
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
-
-The supported version 
-- flutter 3.24.5 stable channel
-- dart 3.5.4
-- incase of issue with gradle version distributionUrl of gradle-8.3 is recommended
 
 A few resources to get you started if this is your first Flutter project:
 
